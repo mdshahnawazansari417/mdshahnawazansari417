@@ -1,13 +1,13 @@
 
 ### 👋 Hi, I’m Md Shanawaz
 
+<img src="https://i.imgur.com/abc123.jpg" width="200" alt="Md Shanawaz" />
+
 - 🌱 I’m currently learning **Python**, **HTML/CSS**, and **React.js**
 - 🔭 I’m working on building my **Portfolio Website**
-- 🤝 I’m looking to collaborate on beginner-friendly web projects
-- 💬 Ask me about Python, Replit, and front-end basics
+...
 - 📫 How to reach mdshanawaz4643@gmail
-- 📍 I'm from Kolkata, India
-
+- 📍 I'm from Kolkata
 ---
 
 ### 🛠️ Skills
