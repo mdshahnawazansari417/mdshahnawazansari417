@@ -5,7 +5,7 @@
 - 🔭 I’m working on building my **Portfolio Website**
 - 🤝 I’m looking to collaborate on beginner-friendly web projects
 - 💬 Ask me about Python, Replit, and front-end basics
-- 📫 How to reach me: mdshanawaz@example.com
+- 📫 How to reach mdshanawaz4643@gmail
 - 📍 I'm from Kolkata, India
 
 ---
